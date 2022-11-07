@@ -1,4 +1,4 @@
-![crowdigital logo](https://www.crowdigital.cz/images/admin/logo-simple.svg)
+<img src="https://www.crowdigital.cz/images/admin/logo-simple.svg" alt="crowdigital logo" width="300"/>
 
 ## Hi there 👋
 
